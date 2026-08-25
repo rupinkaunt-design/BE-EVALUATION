@@ -589,3 +589,5 @@ project-development purposes.
 
 If you plan to publish or commercialize it, add an appropriate
 open-source or proprietary license and update this section accordingly.
+
+PROJECT DEPOLYMENT LINK:-  https://ev-chargewise.netlify.app
